@@ -3,7 +3,11 @@ html {
     padding: 0;
 }
 body {
+<<<<<<< HEAD
     font-family: 'Helvetica', cursive;
+=======
+    font-family: 'Handlee', cursive;
+>>>>>>> 65ca0791a6546463932567d89a325420de02d49d
     font-size: 13pt;
     background-color: #efefef;
     padding: 10px;
